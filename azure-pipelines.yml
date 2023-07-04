@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  Default
+  Azure pipelines
 
 steps:
 
